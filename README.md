@@ -25,3 +25,10 @@ pip install pandas
 pip install matplotlib
 pip install seaborn
 ```
+
+## Output
+Global Average Temperature<br/>
+![Trend1](output_2_0.png)
+
+New Delhi Temperature vs Global Average Temperature<br/>
+![Trend2](output_3_0.png)
